@@ -1,0 +1,1 @@
+I wanted to test out both positioning and using box sizing on the box model.  Then I just started having fun with it.
